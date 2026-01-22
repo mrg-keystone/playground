@@ -1,0 +1,8 @@
+{
+  "name": "@playground/root",
+  "workspace": [
+    "packages/core",
+    "packages/utils",
+    "packages/cli"
+  ]
+}
